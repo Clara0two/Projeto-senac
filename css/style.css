@@ -34,14 +34,14 @@ h2 {
 a {
     background: black;
     border-radius: 5px;
-    color: white
+    color: white;
     text-decoration: none;
     padding: 5px;
     text-transform:uppercase;
 }
     a:haver {
-        background: white
-        color:black
-        border: 1px solid black
+        background: white;
+        color:black;
+        border: 1px solid black;
     }
 
